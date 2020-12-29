@@ -1,0 +1,19 @@
+$text: black; // 주석
+$back:#ffffff;
+*{
+    margin: 0px;
+
+}
+.Wrap{
+width: 100vw;
+display:flex;
+flex-direction: column;
+justify-content: center;
+}
+.BodyImages{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 10vh;
+    padding: 5vw;
+}

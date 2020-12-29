@@ -1,0 +1,30 @@
+$back: #990011; // 주석
+$text:white;
+
+.Header{
+    // background-color: $text;
+    color: $back;
+    width: 100vw;
+    height: 10vh;
+display: grid;
+grid-template: '1 1';
+align-items: center;
+div{
+    font-size: 2.5vw;
+    font-weight: 700;
+    // background-color: $text;
+
+    display: flex;
+    justify-content:space-around;
+    color: $back;
+}
+.menu{
+    a{
+        font-size:1.8vw;
+    }
+}
+    a{  
+        // background-color: $text;
+        color: $back;
+    }
+}
