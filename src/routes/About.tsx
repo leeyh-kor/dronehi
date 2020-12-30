@@ -6,7 +6,7 @@ const About=()=>{
     return <div className="wrap">
         <Header></Header>
 
-        <div className="Body" >
+        <div className="AboutBody" >
             dataaaddddd
         </div>
     </div>

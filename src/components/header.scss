@@ -1,8 +1,10 @@
 $back: #990011; // 주석
-$text:white;
-
+$text:#FCF6F5;
+*{background-color: $text;}
 .Header{
     // background-color: $text;
+    position: fixed;
+    top: 0;
     color: $back;
     width: 100vw;
     height: 10vh;
