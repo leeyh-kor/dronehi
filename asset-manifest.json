@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dronehi/static/css/main.f2202c63.chunk.css",
-    "main.js": "/dronehi/static/js/main.2996ade9.chunk.js",
-    "main.js.map": "/dronehi/static/js/main.2996ade9.chunk.js.map",
+    "main.css": "/dronehi/static/css/main.08692a51.chunk.css",
+    "main.js": "/dronehi/static/js/main.ff34d062.chunk.js",
+    "main.js.map": "/dronehi/static/js/main.ff34d062.chunk.js.map",
     "runtime-main.js": "/dronehi/static/js/runtime-main.5758179f.js",
     "runtime-main.js.map": "/dronehi/static/js/runtime-main.5758179f.js.map",
     "static/css/2.84e7d27e.chunk.css": "/dronehi/static/css/2.84e7d27e.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.e8a23d18.chunk.js.map": "/dronehi/static/js/3.e8a23d18.chunk.js.map",
     "index.html": "/dronehi/index.html",
     "static/css/2.84e7d27e.chunk.css.map": "/dronehi/static/css/2.84e7d27e.chunk.css.map",
-    "static/css/main.f2202c63.chunk.css.map": "/dronehi/static/css/main.f2202c63.chunk.css.map",
+    "static/css/main.08692a51.chunk.css.map": "/dronehi/static/css/main.08692a51.chunk.css.map",
     "static/js/2.77a1c900.chunk.js.LICENSE.txt": "/dronehi/static/js/2.77a1c900.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5758179f.js",
     "static/css/2.84e7d27e.chunk.css",
     "static/js/2.77a1c900.chunk.js",
-    "static/css/main.f2202c63.chunk.css",
-    "static/js/main.2996ade9.chunk.js"
+    "static/css/main.08692a51.chunk.css",
+    "static/js/main.ff34d062.chunk.js"
   ]
 }
