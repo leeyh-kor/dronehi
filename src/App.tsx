@@ -2,13 +2,13 @@ import React from 'react';
 import {HashRouter,Route} from "react-router-dom";
 import './App.scss';
 import Home from './routes/Home';
-import About from './routes/About'
+import AboutPhoto from './routes/AboutPhoto'
 
 function App() {
   return (
     <HashRouter>
       <Route path= "/" exact = "true" component = {Home}/>
-      <Route path= "/about"  component = {About}/>
+      <Route path= "/about" exact="false"  component = {AboutPhoto}/>
     </HashRouter>  );
 }
 

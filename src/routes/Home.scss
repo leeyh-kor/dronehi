@@ -5,23 +5,26 @@ $back:#ffffff;
 
 }
 .Wrap{
-width: 100vw;
+width: 100%;
 display:flex;
 flex-direction: column;
 justify-content: center;
 }
 video{
-    
+        margin-top: 10vh;
         width: 100%;
         height: 100vh;
         margin-bottom: 5vw;
+
 
 }
 .Body{
     flex-direction: column;
     justify-content: center;
-    padding-left: 5vh;
-    padding-right: 5vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
+
+
 }   
 
 .BodyImages{
