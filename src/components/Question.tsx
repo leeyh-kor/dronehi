@@ -23,13 +23,12 @@ interface Props {
   _handleClick: (type?: string) => void;
 }
 
-const Questions = ({ data, results, _handleClick }: Props) => {
+const Questions = ({ data, _handleClick }: Props) => {
+  console.log(data.imgUrl);
   return (
     <div className="question_wrapper">
-      <div
-        className="question_question"
-        style={{ backgroundImage: data.imgUrl }}
-      >
+      <img src={data.imgUrl} alt="" className="question_img" />
+      <div className="question_question" style={{ opacity: 1 }}>
         {data.question}
       </div>
       <button onClick={() => _handleClick(data.answer1Code)}>
