@@ -46,7 +46,11 @@ const Result = ({ results }: Props) => {
       >
         역사 인물 테스트
       </h1>
-      <img src={result[mbti].imgUrl}></img>
+      <img
+        src={result[mbti].imgUrl}
+        alt=""
+        style={{ width: "30vw", height: "30vh" }}
+      ></img>
       <span>
         나와 가장 닮은 역사인물은 ..
         {"\n\n" + result[mbti].name}
