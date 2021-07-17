@@ -31,10 +31,16 @@ const Questions = ({ data, _handleClick }: Props) => {
       <div className="question_question" style={{ opacity: 1 }}>
         {data.question}
       </div>
-      <button onClick={() => _handleClick(data.answer1Code)}>
+      <button
+        style={{ border: "none" }}
+        onClick={() => _handleClick(data.answer1Code)}
+      >
         {data.answer1}
       </button>
-      <button onClick={() => _handleClick(data.answer2Code)}>
+      <button
+        style={{ border: "none" }}
+        onClick={() => _handleClick(data.answer2Code)}
+      >
         {data.answer2}
       </button>
     </div>

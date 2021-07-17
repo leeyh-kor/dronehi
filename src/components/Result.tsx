@@ -1,5 +1,8 @@
 import React from "react";
 
+import { result } from "../utils/constant";
+
+import "./Result.scss";
 interface Props {
   results: {
     I: number;
@@ -36,7 +39,20 @@ const Result = ({ results }: Props) => {
     mbti += "J";
   }
 
-  return <div>당신의mbti는 {mbti}입니다.</div>;
+  return (
+    <div className="container">
+      <h1
+        style={{ backgroundColor: "#e4bc58", width: "100%", color: "#ffffff" }}
+      >
+        역사 인물 테스트
+      </h1>
+      <img src={result[mbti].imgUrl}></img>
+      <span>
+        나와 가장 닮은 역사인물은 ..
+        {"\n\n" + result[mbti].name}
+      </span>
+    </div>
+  );
 };
 
 export default Result;

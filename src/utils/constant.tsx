@@ -7,7 +7,7 @@ export const items = [
     answer2: "그래도 나의 나라를 지키는 게 먼저지. 저들은 언제 적이 될지 몰라!",
     answer2Code: "P",
     imgUrl:
-      "https://drive.google.com/file/d/1O9XlNPqXNkUeVuG9lx1HPldIfsI3IXYJ/view?usp=sharing",
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/Q1.jpg",
   },
   {
     question:
@@ -17,18 +17,18 @@ export const items = [
     answer2: "b.	비단치마를 주고 산다고..? 좋은 꿈인가? 일단 안 팔아야지!",
     answer2Code: "N",
     imgUrl:
-      "https://drive.google.com/file/d/1tNUBzinwjR4rULdXDouRqACF00mlKajT/view?usp=sharing",
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/Q2.jpg",
   },
   {
     question:
-      "3.	. 조선의 수군인 당신은 나라를 위해 많은 공을 세웠으나 신하들의 질투와 모함에 의해 옥에 갇혀 많은 고문을 받았습니다. 나라의 위기가 있자 그들은 당신에게 다시 복직을 할 것을 요구하였습니다. 어떻게 하겠습니까?",
+      "3. 조선의 수군인 당신은 나라를 위해 많은 공을 세웠으나 신하들의 질투와 모함에 의해 옥에 갇혀 많은 고문을 받았습니다. 나라의 위기가 있자 그들은 당신에게 다시 복직을 할 것을 요구하였습니다. 어떻게 하겠습니까?",
     answer1:
       "내가 없으면 싸움이 질 텐데.. 그럼 나라가 망하니 일단 복직해서 싸우자!",
     answer1Code: "T",
     answer2: "또 무슨 짓을 할 줄 알고, 절대 복직 안해!",
     answer2Code: "F",
     imgUrl:
-      "https://drive.google.com/file/d/1gStLAwwRwN9xfYzOjsu5IQM3F93tMbuT/view?usp=sharing",
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/Q3.jpg",
   },
   {
     question:
@@ -38,7 +38,7 @@ export const items = [
     answer2: "누군가가 말을 걸어올 때까지 기다린다.",
     answer2Code: "I",
     imgUrl:
-      "https://drive.google.com/file/d/17SmNbPWHsGzgFsu9EIyFOLapDPSLdbbM/view?usp=sharing",
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/Q4.jpg",
   },
   {
     question:
@@ -48,7 +48,7 @@ export const items = [
     answer2: "오늘 논다면 내일까지 못 끝낼 수도 있는데.. 다음에 놀아야겠다!",
     answer2Code: "J",
     imgUrl:
-      "https://drive.google.com/file/d/1rPeOVknE0DPcyakvTZketUAjwWK05QVZ/view?usp=sharing",
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/Q5.jpg",
   },
   {
     question:
@@ -58,7 +58,7 @@ export const items = [
     answer2: "일정을 계획적으로 짜 놔야 팔도를 다 볼 수 있어!",
     answer2Code: "J",
     imgUrl:
-      "https://drive.google.com/file/d/1TUFCJE4B10e0sMQvLdjVZBW3XeQQeA5K/view?usp=sharing",
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/Q6.jpg",
   },
   {
     question:
@@ -68,7 +68,7 @@ export const items = [
     answer2: "공과사는 구별해야 해! 부탁한다 관창!",
     answer2Code: "T",
     imgUrl:
-      "https://drive.google.com/file/d/1_4HTUrRC8pu8YuIpU5RTHESn-6eGcefb/view?usp=sharing",
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/Q7.jpg",
   },
   {
     question:
@@ -79,7 +79,7 @@ export const items = [
     answer2: "나는 왕을 위해 충성을 다해야 하는 신하이다 차라리 죽여라!",
     answer2Code: "F",
     imgUrl:
-      "https://drive.google.com/file/d/1_4HTUrRC8pu8YuIpU5RTHESn-6eGcefb/view?usp=sharing",
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/Q8.jpg",
   },
   {
     question:
@@ -89,7 +89,7 @@ export const items = [
     answer2: "조세를 공평하게? 저한테만 맡겨 주십시오!",
     answer2Code: "N",
     imgUrl:
-      "https://drive.google.com/file/d/1dWR2C6a3SaFXHUznLiqRimDlDC7lNWcn/view?usp=sharing",
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/Q9.jpg",
   },
   {
     question:
@@ -99,7 +99,7 @@ export const items = [
     answer2: "그냥 조용한게 좋아 집에서 놀래!",
     answer2Code: "I",
     imgUrl:
-      "https://drive.google.com/file/d/1neyPAZSw6iGXKWHB9-De55hOsbhSr1N-/view?usp=sharing",
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/Q10.jpg",
   },
   {
     question:
@@ -110,7 +110,7 @@ export const items = [
     answer2: "여러 사람과 북적이며 일하는 것이 좋아 사간원으로 갈래!",
     answer2Code: "E",
     imgUrl:
-      "https://drive.google.com/file/d/188KwZJwmyYsouFPJLLOZZuAMEh87b73y/view?usp=sharing",
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/Q11.jpg",
   },
   {
     question:
@@ -120,25 +120,119 @@ export const items = [
     answer2: "밑져야 본전이야 열심히 먹는다.",
     answer2Code: "N",
     imgUrl:
-      "https://drive.google.com/file/d/1z4NZAzncgNtqxFZfyXE4OBLeNnthrF1X/view?usp=sharing",
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/Q12.jpg",
   },
 ];
 
 export const result = {
-  ISTJ: { name: "신사임당", description: "" },
-  ISFJ: { name: "황희", description: "" },
-  INFJ: { name: "유관순", description: "" },
-  INTJ: { name: "세종대왕", description: "" },
-  ISTP: { name: "장영실", description: "" },
-  ENFP: { name: "관창", description: "" },
-  ENTP: { name: "율곡 이이", description: "" },
-  ESTJ: { name: "태종,최승로", description: "" },
-  ESFJ: { name: "서희", description: "" },
-  ENFJ: { name: "정조", description: "" },
-  ENTJ: { name: "이순신", description: "" },
-  ISFP: { name: "이황", description: "" },
-  INFP: { name: "김홍도", description: "" },
-  INTP: { name: "정도전", description: "" },
-  ESTP: { name: "김유신", description: "" },
-  ESFP: { name: "장보고", description: "" },
+  ISTJ: {
+    name: "신사임당",
+    description:
+      "-당신은 전통과 질서를 중시합니다\n	-당신은 목표를 달성하기 위해 시간과 에너지를 허투루 쓰지 않습니다\n	-당신은 보이지 않는 내면의 강인함을 가졌습니다.\n -당신은 뛰어난 통찰력과 판단력을 가졌습니다.\n -당신은 주어진 업무나 책임을 끝까지 완수하려고 합니다.",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/imdang.jpg",
+  },
+  ISFJ: {
+    name: "황희",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/hwanghee.jpg",
+  },
+
+  INFJ: {
+    name: "유관순",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/kwansoon.jpg",
+  },
+
+  INTJ: {
+    name: "세종대왕",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/sejong.jpg",
+  },
+
+  ISTP: {
+    name: "장영실",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/youngsil.jpg",
+  },
+
+  ENFP: {
+    name: "김만덕",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/manduk.jpg",
+  },
+
+  ENTP: {
+    name: "율곡 이이",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/leelee.jpg",
+  },
+
+  ESTJ: {
+    name: "태종",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/taejong.jpg",
+  },
+
+  ESFJ: {
+    name: "서희",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/seohee.jpg",
+  },
+
+  ENFJ: {
+    name: "정조",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/jeongjo.jpg",
+  },
+
+  ENTJ: {
+    name: "이순신",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/soonsin.jpg",
+  },
+
+  ISFP: {
+    name: "이황",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/ihwang.jpg",
+  },
+
+  INFP: {
+    name: "허준",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/heojun.jpg",
+  },
+
+  INTP: {
+    name: "정도전",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/dojeon.jpg",
+  },
+  ESTP: {
+    name: "김유신",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/yusin.jpg",
+  },
+
+  ESFP: {
+    name: "장보고",
+    description: "",
+    imgUrl:
+      "https://raw.githubusercontent.com/leeyh-kor/dronehi/master/src/components/images/peoples/bogo.jpg",
+  },
 };
