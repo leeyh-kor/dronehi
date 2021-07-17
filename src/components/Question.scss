@@ -1,0 +1,36 @@
+$text: #000000;
+
+.question_wrapper {
+  width: 35vw;
+  @media screen and (max-width: 768px) {
+    width: 76px;
+  }
+  font-size: 18px;
+  @media screen and (max-width: 768px) {
+    font-size: 24px;
+  }
+  padding: 12vh 12vw;
+}
+button {
+  background-color: #ffffff;
+  border: 0.5px solid #000;
+  cursor: pointer;
+  // border: none;
+  height: 10vh;
+  width: 35vw;
+  @media screen and (max-width: 768px) {
+    width: 60vw;
+    margin: 0 20vw;
+  }
+  margin-top: 8vh;
+  font-size: 18px !important;
+  @media screen and (max-width: 768px) {
+    font-size: 24px;
+  }
+  border-radius: 12.5px;
+}
+.question_question {
+  padding: 0 6vw;
+  object-fit: cover;
+  background-repeat: no-repeat;
+}

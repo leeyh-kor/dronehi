@@ -2,13 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-                                    // 수정
-
+import { ApolloProvider } from '@apollo/client';
+import client from './apollo' // apollo로 감싸기 && provider 클라이언트가 필요함,
 
 ReactDOM.render(
-  <React.StrictMode>
+  <ApolloProvider client={client}>
   <App/>
-  </React.StrictMode>,
+  </ApolloProvider>,
     document.getElementById('root')
 );
 

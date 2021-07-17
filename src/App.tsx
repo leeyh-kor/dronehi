@@ -1,15 +1,14 @@
-import React from 'react';
-import {HashRouter,Route} from "react-router-dom";
-import './App.scss';
-import Home from './routes/Home';
-import AboutPhoto from './routes/AboutPhoto'
+import React from "react";
+import { HashRouter, Route } from "react-router-dom";
+import "./App.scss";
+import Home from "./routes/Home";
 
 function App() {
   return (
     <HashRouter>
-      <Route path= "/" exact = "true" component = {Home}/>
-      <Route path= "/about" exact="false"  component = {AboutPhoto}/>
-    </HashRouter>  );
+      <Route path="/" exact="true" component={Home} />
+    </HashRouter>
+  );
 }
 
 export default App;
